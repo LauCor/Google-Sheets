@@ -13,12 +13,4 @@ Crear dashboards interactivos utilizando herramientas nativas de Google Sheets p
 ✅ **Diseño de Dashboards**: Layout profesional e interactivo  
 ✅ **Tablas Dinámicas**: Para análisis de datos dinámicos  
 
-## 📸 Vista Previa
 
-### Dashboard Principal
-![Dashboard General](dashboards/dashboard_general.png)
-
-### Dashboard de Ventas
-![Dashboard Ventas](dashboards/dashboard_ventas.png)
-
-## 📂 Estructura del Proyecto
